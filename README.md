@@ -1,22 +1,29 @@
-# 🦊 ¡Hola! Soy Manu Santos 
+# 🦊 ¡Hola! Soy Manu Santos
 
-**Matemático de día, aprendiz de ciberseguridad de noche (y programador cuando el café hace efecto).** ☕
+**Estudiante de Matemáticas | Programador | Entusiasta de la Ciberseguridad**
 
-Me dedico a buscar el punto exacto donde la lógica pura choca con el mundo real. Si un problema tiene solución teórica, intento demostrarla; si tiene solución práctica, la programo; y si alguien intenta romperla... bueno, para eso me estoy metiendo en ciberseguridad. 🛡️
+Me dedico a buscar el punto exacto donde la lógica pura choca con el mundo real. Si un problema tiene solución teórica, intento demostrarla; si tiene solución práctica, la programo; y si alguien intenta romperla... trabajo para asegurarla.
 
-### 🕵️‍♂️ Mi Guarida (Lo que estoy haciendo ahora)
-- 🔭 Actualmente explorando el lado oscuro de la red (ético, lo prometo) y trasteando con **Computación Cuántica** (Qiskit).
-- 🧠 Entrenando mi cerebro matemático para que piense como un atacante y defienda como un criptógrafo.
-- 🦊 Dejando rastro de mis scripts y locuras por aquí.
+### 🎯 Mi Foco Actual
+* 🛡️ Explorando el lado ofensivo y defensivo de la ciberseguridad (Hacking Ético, Criptografía).
+* ⚛️ Trasteando con **Computación Cuántica** e implementando circuitos con Qiskit.
+* 🧠 Entrenando mi cerebro matemático para pensar como un atacante y defender como un criptoanalista.
 
-### 🛠️ Mi Cinturón de Herramientas
-- **Pociones:** Python 🐍, Scala, Haskell (sí, me gusta la programación funcional, juzgadme).
-- **Hechizos Matemáticos:** LaTeX, R, Mathematica.
-- **Artefactos:** Jupyter, Anaconda, Linux.
+### 🛠️ Stack Tecnológico
+**Lenguajes y Paradigmas**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
-### 🌐 ¿Dónde encontrarme fuera de la madriguera?
-- 💼 **[Mi Portfolio / CV Formal](https://manusantos-dev.github.io/JuanManuelSantos_CV/)** (Para cuando me pongo la corbata).
-- 👔 **[LinkedIn](https://linkedin.com/in/juan-manuel-santos-garcia)** (Para hablar de negocios).
+**Matemáticas, Datos y Entornos**
+![R](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🌐 Dónde encontrarme
+[![Portfolio](https://img.shields.io/badge/Portfolio_&_CV-05122A?style=for-the-badge&logo=github&logoColor=white)](https://manusantos-dev.github.io/JuanManuelSantos_CV/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-santos-garcia/)
 
 ---
-*"En matemáticas no entiendes las cosas. Solo te acostumbras a ellas."* - John von Neumann
+> *"En matemáticas no entiendes las cosas. Solo te acostumbras a ellas."* - John von Neumann
