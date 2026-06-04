@@ -1,8 +1,14 @@
+<div align="center">
+  <img src="ruta_a_tu_imagen.png" alt="Juan Manuel Santos - Banner" width="100%">
+</div>
+
 # 🦊 ¡Hola! Soy Manu Santos
 
 **Estudiante de Matemáticas | Programador | Entusiasta de la Ciberseguridad**
 
-Me dedico a buscar el punto exacto donde la lógica pura choca con el mundo real. Si un problema tiene solución teórica, intento demostrarla; si tiene solución práctica, la programo; y si alguien intenta romperla... trabajo para asegurarla.
+Como estudiante del Grado en Matemáticas en la Universidad de Málaga, descubrí que mi verdadera vocación no está solo en resolver abstracciones en un papel, sino en utilizar esa lógica pura para diseñar algoritmos eficientes y proteger arquitecturas de red. Mi objetivo profesional es ser el puente entre el rigor matemático, el desarrollo de software y la ciberseguridad corporativa.
+
+Me dedico a buscar el punto exacto donde la teoría choca con el mundo real. Si un problema tiene solución, intento demostrarla y programarla; y si alguien intenta vulnerarla... trabajo para asegurarla.
 
 ### 🎯 Mi Foco Actual
 * 🛡️ Explorando el lado ofensivo y defensivo de la ciberseguridad (Hacking Ético, Criptografía).
@@ -11,13 +17,11 @@ Me dedico a buscar el punto exacto donde la lógica pura choca con el mundo real
 
 ### 🛠️ Stack Tecnológico
 **Lenguajes y Paradigmas**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 **Matemáticas, Datos y Entornos**
-
 ![R](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
