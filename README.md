@@ -1,3 +1,14 @@
+# 🦊 ¡Hola! Soy Manu Santos
+
+**Estudiante de Matemáticas | Programador | Entusiasta de la Ciberseguridad**
+
+Me dedico a buscar el punto exacto donde la lógica pura choca con el mundo real. Si un problema tiene solución teórica, intento demostrarla; si tiene solución práctica, la programo; y si alguien intenta romperla... trabajo para asegurarla.
+
+### 🎯 Mi Foco Actual
+* 🛡️ Explorando el lado ofensivo y defensivo de la ciberseguridad (Hacking Ético, Criptografía).
+* ⚛️ Trasteando con **Computación Cuántica** e implementando circuitos con Qiskit.
+* 🧠 Entrenando mi cerebro matemático para pensar como un atacante y defender como un criptoanalista.
+  
 ### 🛠️ Stack Tecnológico
 **Lenguajes y Paradigmas**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
