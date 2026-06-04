@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ruta_a_tu_imagen.png" alt="Juan Manuel Santos - Banner" width="100%">
+  <img src="banner.png" alt="Juan Manuel Santos - Banner" width="100%">
 </div>
 
 # 🦊 ¡Hola! Soy Manu Santos
