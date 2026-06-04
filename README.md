@@ -33,7 +33,7 @@ Me dedico a buscar el punto exacto donde la teoría choca con el mundo real. Si 
 
 ### 🌐 Dónde encontrarme
 [![Portfolio](https://img.shields.io/badge/Portfolio_&_CV-05122A?style=for-the-badge&logo=github&logoColor=white)](https://manusantos-dev.github.io/JuanManuelSantos_CV/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-santos-garcia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-santos-dev/)
 
 ---
 > *"En matemáticas no entiendes las cosas. Solo te acostumbras a ellas."* - John von Neumann
