@@ -17,11 +17,13 @@ Me dedico a buscar el punto exacto donde la teoría choca con el mundo real. Si 
 
 ### 🛠️ Stack Tecnológico
 **Lenguajes y Paradigmas**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 **Matemáticas, Datos y Entornos**
+
 ![R](https://img.shields.io/badge/RStudio-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=overleaf&logoColor=white)
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
