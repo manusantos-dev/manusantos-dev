@@ -36,13 +36,4 @@ Me dedico a buscar el punto exacto donde la teoría choca con el mundo real. Si 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-santos-garcia/)
 
 ---
-
-### 📊 Actividad y Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manusantos-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Estadísticas de Manu" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manusantos-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" height="165" />
-</div>
-
----
 > *"En matemáticas no entiendes las cosas. Solo te acostumbras a ellas."* - John von Neumann
