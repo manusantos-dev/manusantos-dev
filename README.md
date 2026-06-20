@@ -48,6 +48,9 @@ I dedicate myself to finding the exact point where theory collides with the real
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-santos-dev/)
 
 ---
+
+> *"In mathematics you don't understand things. You just get used to them."* - John von Neumann
+
 <br><br>
 
 <h1 id="español">🦊 ¡Hola! Soy Manu Santos</h1>
