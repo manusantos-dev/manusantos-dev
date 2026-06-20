@@ -31,6 +31,14 @@ Me dedico a buscar el punto exacto donde la teoría choca con el mundo real. Si 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Stellarium](https://img.shields.io/badge/Stellarium-2A385C?style=for-the-badge&logoColor=white)
 
+**Flujos de Trabajo & IA (El arte del Vibe Coding)**
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=openai&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI_Assisted_Dev-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+> **🤖 Mi relación con el Desarrollo Web**
+> Si te fijas, en mi *stack* no hay medallas de HTML, CSS o JavaScript. No es que les tenga manía, es que prefiero usarlos en modo director de orquesta. Aplico el *vibe coding*: me centro en diseñar la arquitectura lógica, resolver los rompecabezas matemáticos y pensar en los vectores de ataque. Luego, me apoyo en la Inteligencia Artificial para que pique el código de la interfaz por mí. Digamos que sé hablar exactamente el idioma de las máquinas para que ellas hagan el trabajo sucio mientras yo me quedo con la parte divertida.
+
 ### 🌐 Dónde encontrarme
 [![Portfolio](https://img.shields.io/badge/Portfolio_&_CV-05122A?style=for-the-badge&logo=github&logoColor=white)](https://manusantos-dev.github.io/JuanManuelSantos_CV/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-santos-dev/)
