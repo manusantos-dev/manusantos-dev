@@ -1,7 +1,8 @@
 <div align="center">
   <img src="banner.jpg" alt="Juan Manuel Santos - Banner" width="100%">
-  <br><br>
+  <br>
   🌍 **Read this in other languages:** <a href="#english">English</a> | <a href="#español">Español</a>
+  <br>
 </div>
 
 <br>
